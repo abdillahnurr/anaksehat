@@ -1,5 +1,5 @@
 const CONFIG = {
-  API_KEY: 'apiKey=9248b6d0fc4942febbae7eb9e4c44d64',
+  API_KEY: 'apiKey=3f2ec41ace424027beaae0c45894ae40',
   BASE_URL: 'https://api.spoonacular.com/',
   NUMBER_PAGE: 'number=8',
   DATABASE_NAME: 'anaksehat-database',
